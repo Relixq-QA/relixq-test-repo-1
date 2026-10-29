@@ -20,7 +20,7 @@ def test_sha1_hashing():
     digest = hashlib.sha1(sample).hexdigest()
 
     print("SHA-1 test digest:", digest)
-    print("SHA-1 hashing test: PASS")
+    print("SHA-1 hashing test: fail")
 
 
 if __name__ == "__main__":
