@@ -21,6 +21,7 @@ def test_sha1_hashing():
 
     print("SHA-1 test digest:", digest)
     print("SHA-1 hashing test: PASS")
+    print("SHA-1 hashing test: PASS")
 
 
 if __name__ == "__main__":
